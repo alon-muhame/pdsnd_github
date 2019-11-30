@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+Saturday:30-11-2019 @1407Hrs
 
 ### Project Title
-Replace the Project Title
+Udacity-Project 3; Posting Bikeshare_2.py on Github
 
 ### Description
-Describe what your project is about and what it does
+This Project is intended to Post Udacity -Bikeshare_2.py for PDSND to Guthub
 
 ### Files used
-Include the files used
+bikeshare_2.py
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to Udacity -Programming for Data Science -Nanodegree Course Materials
+Udacity Course Mentors
+
+
 
